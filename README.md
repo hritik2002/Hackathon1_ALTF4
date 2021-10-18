@@ -1,3 +1,10 @@
+# Overview of the project
+<img src="./src/assets/page1.jpeg" />
+<img src="./src/assets/page2.jpeg" />
+<img src="./src/assets/page3.jpeg" />
+<img src="./src/assets/page4.jpeg" />
+<img src="./src/assets/page5.jpeg" />
+<img src="./src/assets/page6.jpeg" />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
