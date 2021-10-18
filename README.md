@@ -6,16 +6,28 @@
 ### 4)Chatbot
 
 <img src="./src/assets/page1.jpeg" />
+<hr />
+<br />
 <br />
 <img src="./src/assets/page2.jpeg" />
+<hr />
+<br />
 <br />
 <img src="./src/assets/page3.jpeg" />
+<hr />
+<br />
 <br />
 <img src="./src/assets/page4.jpeg" />
+<hr />
+<br />
 <br />
 <img src="./src/assets/page5.jpeg" />
+<hr />
+<br />
 <br />
 <img src="./src/assets/page6.jpeg" />
+<hr />
+<br />
 <br />
 
 
