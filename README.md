@@ -1,10 +1,25 @@
 # Overview of the project
+## features 
+### 1)Video section
+### 2)Online Editor
+### 3)CSS challenge
+### 4)Chatbot
+
 <img src="./src/assets/page1.jpeg" />
+<br />
 <img src="./src/assets/page2.jpeg" />
+<br />
 <img src="./src/assets/page3.jpeg" />
+<br />
 <img src="./src/assets/page4.jpeg" />
+<br />
 <img src="./src/assets/page5.jpeg" />
+<br />
 <img src="./src/assets/page6.jpeg" />
+<br />
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
