@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
+
+.CSS_Challenges_wrapper{
+    max-height: 80vh;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 10vh;
+    margin-bottom: 100px;
+}
+
+.CSS_Challenges_wrapper_content{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(38, 65, 75);
+    padding: 10px 0px;
+    height: 100%;
+    flex-wrap: wrap;
+
+}
+
+.CSS_Challenges_left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    max-width: 45%;
+    padding-top: 4%;
+    padding-bottom: 20px;
+    min-height: 100%;
+}
+.CSS_Challenges_left_title{
+    font-family: "roboto";
+    color:rgb(255, 255, 255);
+    font-size: 3.4vw;
+    transform: translateY(-30px);
+    font-weight: 800;
+}
+.CSS_Challenges_left_desc{
+    font-size: 24px;
+    font-family: sans-serif;
+    word-spacing: 0.4px;
+    color: rgb(243, 243, 243);
+    margin-top: 6px;
+    max-width: 480px;
+    display: block;
+    transform: translateY(-20px);
+}
+
+.CSS_Challenges_left_btn{
+    max-width: 160px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    transition: 0.2s all ease-in-out;
+    border: 0;
+    transform: translateY(-16px);
+    cursor: pointer;
+}
+.CSS_Challenges_left_btn:hover{
+    color: rgb(233, 233, 233);
+    background-color: rgba(23,15,17,0.8);
+}
+.CSS_Challenges_left_btn:active{
+    box-shadow: 0px 0px 20px rgba(241, 241, 241, 0.8);
+}
+@media  (max-width:640px) {
+    .CSS_Challenges_wrapper_content{
+        align-items: center;
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .CSS_Challenges_left_title{
+        font-size: 30px;
+        width: max-content;
+    }
+    .CSS_Challenges_left_desc{
+        display: none;
+    }
+    .CSS_Challenges_left_btn{
+        margin: auto;
+        margin-top: 10px;
+    }
+}
+
+@media  (max-width:434px) {
+    .CSS_Challenges_wrapper_content{
+        width: 100%;
+    }
+    .CSS_Challenges_left_title{
+        font-size: 24px;
+        width: max-content;
+    }
+    .CSS_Challenges_left_desc{
+        display: none;
+    }
+    .CSS_Challenges_left_btn{
+        margin: auto;
+        width: max-content;
+        margin-top: 10px;
+    }
+    .CSS_Challenges_right img{
+        max-width: 100px !important;
+        height: 10px;
+
+    }
+}
+.CSS_Challenges_right{
+    width: 45%;
+    display: flex;
+    justify-content: center;
+}
+.CSS_Challenges_right img{
+    max-width: 400px;
+    min-width: 280px;
+    min-height: 200px;
+    width: 100%;
+    object-fit: contain;
+
+
+
+}

@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ALT-F4-Hackathon1/static/css/main.90ffa04d.chunk.css",
+    "main.js": "/ALT-F4-Hackathon1/static/js/main.9f76f721.chunk.js",
+    "main.js.map": "/ALT-F4-Hackathon1/static/js/main.9f76f721.chunk.js.map",
+    "runtime-main.js": "/ALT-F4-Hackathon1/static/js/runtime-main.c657feaf.js",
+    "runtime-main.js.map": "/ALT-F4-Hackathon1/static/js/runtime-main.c657feaf.js.map",
+    "static/css/2.3848a56f.chunk.css": "/ALT-F4-Hackathon1/static/css/2.3848a56f.chunk.css",
+    "static/js/2.1e756bb4.chunk.js": "/ALT-F4-Hackathon1/static/js/2.1e756bb4.chunk.js",
+    "static/js/2.1e756bb4.chunk.js.map": "/ALT-F4-Hackathon1/static/js/2.1e756bb4.chunk.js.map",
+    "index.html": "/ALT-F4-Hackathon1/index.html",
+    "static/css/2.3848a56f.chunk.css.map": "/ALT-F4-Hackathon1/static/css/2.3848a56f.chunk.css.map",
+    "static/css/main.90ffa04d.chunk.css.map": "/ALT-F4-Hackathon1/static/css/main.90ffa04d.chunk.css.map",
+    "static/js/2.1e756bb4.chunk.js.LICENSE.txt": "/ALT-F4-Hackathon1/static/js/2.1e756bb4.chunk.js.LICENSE.txt",
+    "static/media/chat_bot_svg_pink.bdbd4ec3.svg": "/ALT-F4-Hackathon1/static/media/chat_bot_svg_pink.bdbd4ec3.svg",
+    "static/media/editor_svg_pink.371570f8.svg": "/ALT-F4-Hackathon1/static/media/editor_svg_pink.371570f8.svg",
+    "static/media/explore_courses_pink.28a71443.svg": "/ALT-F4-Hackathon1/static/media/explore_courses_pink.28a71443.svg",
+    "static/media/footersvg.becd1465.svg": "/ALT-F4-Hackathon1/static/media/footersvg.becd1465.svg",
+    "static/media/html_css_svg.54fd1058.svg": "/ALT-F4-Hackathon1/static/media/html_css_svg.54fd1058.svg",
+    "static/media/notes.bc855e6a.pdf": "/ALT-F4-Hackathon1/static/media/notes.bc855e6a.pdf",
+    "static/media/notes_svg_pink.f42674de.svg": "/ALT-F4-Hackathon1/static/media/notes_svg_pink.f42674de.svg",
+    "static/media/react_svg_pink.f32e3ada.svg": "/ALT-F4-Hackathon1/static/media/react_svg_pink.f32e3ada.svg",
+    "static/media/svg1.412b1f3c.svg": "/ALT-F4-Hackathon1/static/media/svg1.412b1f3c.svg",
+    "static/media/svg2.205519e7.svg": "/ALT-F4-Hackathon1/static/media/svg2.205519e7.svg",
+    "static/media/svg4.ea7f5e10.svg": "/ALT-F4-Hackathon1/static/media/svg4.ea7f5e10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c657feaf.js",
+    "static/css/2.3848a56f.chunk.css",
+    "static/js/2.1e756bb4.chunk.js",
+    "static/css/main.90ffa04d.chunk.css",
+    "static/js/main.9f76f721.chunk.js"
+  ]
+}

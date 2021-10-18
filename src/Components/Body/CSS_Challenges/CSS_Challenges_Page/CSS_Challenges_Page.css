@@ -1,0 +1,138 @@
+.CSS_Challenges_Page_wrapper{
+    padding-top: 6vh;
+    height: max-content;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding-top: 12vh;
+    padding-bottom: 30vh;
+    background-color: rgb(255, 255, 255);
+
+  }
+  .CSS_Challenges_Page_top{
+    width: 100%;
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+  }
+  .CSS_Challenges_Page_top button{
+    padding: 8px 12px;
+    font-size: 24px;
+    border: none;
+    color: #fff;
+    background-color: rgb(207, 74, 97);
+    cursor: pointer;
+    border-radius: 6px;
+    width: max-content;
+
+  }
+  .CSS_Challenges_Page_top button:hover{
+    background-color: rgb(196, 72, 93);
+  }
+  .CSS_Challenges_Page_top button:active{
+    box-shadow: 0 0 3px rgb(207, 74, 97);
+  }
+
+  .CSS_Challenges_Page_content{
+    width: 100%;
+    min-height: 40vh;
+    max-height: 100vh;
+    margin-bottom: 100px;
+    border-bottom: 2px sok;
+    display: flex;
+    flex-direction: column;
+    max-width: 1500px;
+    margin: auto;
+    padding-top: 0.5vh;
+}
+
+.CSS_Challenges_Page_left{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    background-color: #112222;
+    
+}
+.CSS_Challenges_Page_right{
+    width: 100%;
+    height: 40vh;
+    border: 8px solid #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 8px;
+    transform: translateY(45px);
+    
+}
+.CSS_Challenges_Page_right_first{
+  width: 49%;
+  height: 100%;
+  border: 4px solid palevioletred;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+}
+.CSS_Challenges_Page_right_first::before{
+  position: absolute;
+  content: "Your Work :";
+  display: flex;
+  align-items: center;
+  font-size: 26px;
+  font-weight: 600;
+  color: rgb(206, 71, 93);
+  width: 100%;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  top:-55px;
+}
+.CSS_Challenges_Page_right_second{
+  position: relative;
+}
+.CSS_Challenges_Page_right_second::before{
+  position: absolute;
+  content: "Your Target :";
+  display: flex;
+  align-items: center;
+  font-size: 26px;
+  font-weight: 600;
+  color: rgb(206, 71, 93);
+  width: 100%;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  top:-55px;
+}
+
+.CSS_Challenges_Page_right_second{
+  width: 49%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(255, 255, 255);
+  border: 4px solid palevioletred;
+}
+
+  .alertmessage{
+      font-size: 40px;
+      position: relative;
+      background-color: #fff;
+      top:12vh;
+      width: 40vw;
+      height: 10vh;
+      margin-bottom: 100vh;
+
+      left:0;
+      color: red;
+  }
+
+  hr{
+    background-color: #112222;
+    width: 100%;
+    height: 2px;
+    max-width: 1500px;
+    margin-top: 20px;
+  }

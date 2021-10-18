@@ -1,0 +1,108 @@
+.SignedIn_nav{
+    width: 100%;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    background-color: #fff;
+    transition: 0.2s all ease-in-out;
+    z-index: 40;
+
+}
+.SignedIn_left{
+    cursor: pointer;
+}
+.SignedIn_EditorLink{
+    padding: 8px;
+    max-width: 100px;
+    margin-right: 1rem;
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+    color: hsl(225, 14%, 20%);
+    transition: 0.2s all;
+}
+.SignedIn_EditorLink:hover{
+    color:rgba(59, 58, 58, 0.692)
+}
+.SignedIn_right{
+    width: 80%;
+    display: flex;
+    justify-content:flex-end ;
+    height: 100%;
+    position: relative;
+    padding-right: 10px;
+    flex-wrap: wrap;
+}
+
+.SignedIn_home-nav h2{
+    color: rgb(59, 58, 58);
+    margin-left: 1rem;
+}
+.SignedIn_profile{
+    background-color: pink;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: relative;
+    transition:0.2s all;
+}
+.SignedIn_profile:hover{
+    opacity: 0.8;
+}
+.SignedIn_profile:active{
+    opacity: 1;
+    box-shadow: 2px 2px 12px rgb(0, 0, 0,0.1);
+}
+.SignedIn_profile img{
+    width:100%;
+    height: 100%;
+    clip-path: circle(20px at 50% 50%);
+}
+.profileClick{
+    position: absolute;
+    right: 0;
+    top: 50px;
+    border: 1px solid rgb(0, 0, 0,0.2);
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: baseline;
+    padding: 10px 20px 10px ;
+    height: max-content;
+    z-index: 1;
+    background-color: #fff;
+    transition-timing-function: ease-in-out;
+}
+.profileClick button{
+    width: 100%;
+    padding: 8px;
+    background-color: #fff;
+    transition: 0.4s all;
+    cursor: pointer;
+    border:0;
+    font-size: 16px;
+    
+}
+.profileClick button:hover{
+    background-color: rgba(238, 238, 238, 0.219);
+}
+.profileClick button:active{
+    background-color: rgba(201, 196, 196, 0.432);
+    
+}
+.profileClick h4{
+    color: rgb(255, 82, 111);
+    font-weight: 600;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    
+}
+
+.svg{
+    width:150px;
+}

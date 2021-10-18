@@ -1,0 +1,114 @@
+.Editor_wrapper{
+    width: 100%;
+    padding-top: 10vh;
+    height: 100vh;
+    margin-bottom: 38vh;
+}
+.top-pane{
+    width: 100vw;
+
+}
+
+.expand-collapse-btn{
+    width: 100px;
+}
+.Main_Editor_title{
+    display: flex;
+    align-items: center;
+    height: 40px;
+    font-size: 16px;
+    color: #fff;
+    justify-content: space-between;
+    padding-left: 15px;
+}
+.Main_Editor_title button{
+    max-width: 100px ;
+    background-color: inherit ;
+    color: #fff;
+    cursor: pointer;
+    height: 100%;
+    border: 0;
+    font-size: 20px;
+
+    
+}
+.icon{
+    width: 100px !important;
+}
+
+.top-pane-row{
+    width: 50%;
+}
+.pane-row{
+    
+}
+.editor-nav{
+    background-color: rgb(30, 53, 61);
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid rgb(197, 197, 197);
+    height:80px;
+}
+.editor-nav h2{
+    transform: translateX(-100px);
+    color: rgb(212, 69, 117);
+}
+.editor-nav button{
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(202, 61, 108);
+    border: 0;
+    cursor: pointer;
+    transition: 0.4s all;
+}
+
+.editor-nav button:hover{
+    
+    background-color: rgb(202, 61, 108);
+    color: rgb(255, 255, 255);
+}
+.editor-nav button:active{
+    opacity: 0.6;
+}
+.pane_output{
+    width: 100%;
+}
+.editor_wrapper_top-pane{
+    display: flex;
+}
+.Main_Editor_container{
+    width: 100%;
+    min-height: 40vh;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid rgb(250, 250, 250);
+}
+.top-pane{
+    display: flex;
+    width: 100vw;
+    background-color: rgb(64, 73, 80);
+}
+.contain_Editor{
+    width: 33%;
+}
+.top-pane-row{
+    max-width: 50vw;
+    display: flex;
+    flex-direction: column;
+}
+.contain_Editor_row{
+    width: 100%;
+    max-width: 50vw;
+}
+.wrapper-row{
+    display: flex;
+}
+.CodeMirror{
+    min-height: 30vh;
+}

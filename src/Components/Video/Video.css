@@ -1,0 +1,18 @@
+.wrapper{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    height: max-content;
+    padding-bottom: 10vh;
+}
+.videopage_wrapper{
+    height: 100vh;
+    width: 100%;
+}
+.Notes_wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+    width: 100%;
+}

@@ -1,0 +1,16 @@
+.HomeNavbar{
+}
+.welcome_msg{
+    position: absolute;
+    top:80px;
+    right:10px;
+    font-size: 34px;
+    color: rgb(238, 93, 141);
+    font-weight: 500;
+    background-color: rgba(252, 210, 217, 0.473);
+    width: 450px;
+    border-radius: 4px;
+    text-align: center;
+    padding: 4px;
+    z-index: 50;
+}

@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
+
+.Main_area_wrapper{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10vh;
+}

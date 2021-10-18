@@ -1,0 +1,204 @@
+
+
+.signuppage_container {
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#devSvg{
+    width: 650px;
+    height: auto;
+    transition: all 0.5s ease;
+    transform: translateX(-100px);
+}
+
+.LoginBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-height: 600px;
+}
+
+.motto {
+    text-align: center;
+    font-size: 30px;
+}
+
+.content {
+    height: 530px;
+    width: 350px;
+    border-radius: 20px;
+    box-shadow: 0 0 50px #ccc;
+    margin-top: 5%;
+}
+
+.googleSignin {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4285F4;
+    color: white;
+    text-align: center;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    cursor: pointer;
+    height: 36px;
+    padding: 8px 4px;
+    border-radius: 2px;
+    font-size: 1.05em;
+    border-radius: 6px;
+}
+
+.googleSignin img {
+    height: inherit;
+    width: auto;
+    border-radius: 50%;
+    clip-path: circle(15px at 50% 50%);
+}
+
+.or {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.signuppage_options {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 15px;
+}
+
+.options div {
+    width: 20%;
+    text-align: center;
+    cursor: pointer;
+    margin: 0 20px;
+    border: 0px;
+    border-radius: 20px;
+    padding: 7px;
+    transition: all 0.5s ease;
+}
+
+.active {
+    background-color: #25478B;
+    color: white;
+    box-shadow: 0 0 50px #ccc;
+}
+
+.logIn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.signUp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.entries input {
+    width: 70%;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    transition: all 0.3s ease;
+    font-size: 15px;
+    box-sizing: border-box;
+}
+
+#pass,
+#passNew {
+    margin: 15% 0;
+}
+
+#passConf {
+    margin-bottom: 15%;
+}
+
+input:focus {
+    outline: none;
+    box-shadow: 0 1px black;
+}
+
+#forgot {
+    cursor: pointer;
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+.continue {
+    cursor: pointer;
+    background: none;
+    border: none;
+    background-color: #FF2E63;
+    color: white;
+    box-shadow: 0 0 50px #ccc;
+    width: 25%;
+    border-radius: 20px;
+    padding: 7px;
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin-top: 15%;
+}
+
+@media only screen and (max-width: 768px) {
+    #devSvg {
+        display: none;
+    }
+}
+
+.content button{
+    border:0 ;
+    border-radius: 4px;
+}
+.continue_login{
+    transform: translateY(-40px);
+}
+
+.alreadysignedIn{
+    padding-top: 10vh;
+}
+
+/* #signup_btn{
+    margin-bottom: 40px;
+} */
+
+
+.get_started{
+    font-size:18px;
+    line-height: 40px;
+    color:rgba(0,0,0,0.7);
+    margin-bottom: 20px;
+}
+
+
+#signup_btn , #signin_btn{
+    border-radius: 20px;
+}
+#signup_btn:hover , #signin_btn:hover{
+    background-color: #ff2e62c5;
+}
+
+#signup_btn:active , #signin_btn:active{
+    background-color: #FF2E63;
+    box-shadow: 4px 4px 40px rgba(0,0,0,0.2);
+}
+#signup_loginbtn , #signup_signupbtn{
+    padding:8px 12px;
+    border-radius: 20px;
+    cursor: pointer;
+}
