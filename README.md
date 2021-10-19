@@ -3,7 +3,8 @@
 ### 1)Video section
 ### 2)Online Editor
 ### 3)CSS challenge
-### 4)Chatbot
+### 4)Project Ideas
+### 5)Chatbot
 
 <img src="./src/assets/page1.jpeg" />
 <hr />
