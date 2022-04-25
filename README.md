@@ -1,4 +1,4 @@
-#checkout website here https://e-tutorial.herokuapp.com/
+# checkout website here https://e-tutorial.herokuapp.com/
 
 # Overview of the project
 ## features 
