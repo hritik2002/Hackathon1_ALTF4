@@ -1,4 +1,7 @@
-# checkout website here https://e-tutorial.herokuapp.com/
+> checkout website here https://e-tutorial.herokuapp.com/
+
+> Used React for frontend .
+
 
 # Overview of the project
 ## features 
