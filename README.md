@@ -1,8 +1,8 @@
+# video streaming educational site to learn web dev
+
 > checkout website here https://e-tutorial.herokuapp.com/
 
 > Used React for frontend .
-
-# video streaming educational site to learn web dev
 
 
 ## Overview of the project
