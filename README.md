@@ -1,6 +1,6 @@
 # video streaming educational site to learn web dev
 
-> checkout website here https://e-tutorial.herokuapp.com/
+> Link to the website https://e-tutorial.herokuapp.com/
 
 > Used React for frontend .
 
