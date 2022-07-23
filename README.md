@@ -2,10 +2,10 @@
 
 > Used React for frontend .
 
-## Online Coding learning platform
+# video streaming educational site to learn web dev
 
 
-# Overview of the project
+## Overview of the project
 ## features 
 ### 1)Video section
 ### 2)Online Editor
