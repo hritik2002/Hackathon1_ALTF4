@@ -1,8 +1,10 @@
 # video streaming educational site to learn web dev
 
-> Link to the website https://e-tutorial.herokuapp.com/
+## Submission for College's online hackathon 2021 star2
 
-> Used React for frontend .
+
+ Link to the website https://e-tutorial.herokuapp.com/
+
 
 
 ## Overview of the project
