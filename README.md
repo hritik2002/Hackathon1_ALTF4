@@ -1,6 +1,6 @@
 # video streaming educational site to learn web dev
 
-## Submission for College's online hackathon 2021 star2
+## Submission for College's online hackathon 2021
 
 
  Link to the website https://e-tutorial.herokuapp.com/
